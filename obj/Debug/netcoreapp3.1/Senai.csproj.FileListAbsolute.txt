@@ -1,0 +1,13 @@
+C:\Marlene\Breno USA\Senai\obj\Debug\netcoreapp3.1\Senai.csprojAssemblyReference.cache
+C:\Marlene\Breno USA\Senai\obj\Debug\netcoreapp3.1\Senai.csproj.CoreCompileInputs.cache
+C:\Marlene\Breno USA\Senai\obj\Debug\netcoreapp3.1\Senai.AssemblyInfoInputs.cache
+C:\Marlene\Breno USA\Senai\obj\Debug\netcoreapp3.1\Senai.AssemblyInfo.cs
+C:\Marlene\Breno USA\Senai\bin\Debug\netcoreapp3.1\Senai.exe
+C:\Marlene\Breno USA\Senai\bin\Debug\netcoreapp3.1\Senai.deps.json
+C:\Marlene\Breno USA\Senai\bin\Debug\netcoreapp3.1\Senai.runtimeconfig.json
+C:\Marlene\Breno USA\Senai\bin\Debug\netcoreapp3.1\Senai.runtimeconfig.dev.json
+C:\Marlene\Breno USA\Senai\bin\Debug\netcoreapp3.1\Senai.dll
+C:\Marlene\Breno USA\Senai\bin\Debug\netcoreapp3.1\Senai.pdb
+C:\Marlene\Breno USA\Senai\obj\Debug\netcoreapp3.1\Senai.dll
+C:\Marlene\Breno USA\Senai\obj\Debug\netcoreapp3.1\Senai.pdb
+C:\Marlene\Breno USA\Senai\obj\Debug\netcoreapp3.1\Senai.genruntimeconfig.cache
